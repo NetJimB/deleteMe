@@ -1,5 +1,8 @@
 # commit branch 1
 
+# Check if git is already initialized:
+git status
+
 # Show branches
 git branch
 
